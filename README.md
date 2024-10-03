@@ -1,5 +1,4 @@
-# AutoAttendance-FaceRec-
-Automated attendance using face recognition
+# Automated Attendance Management Sysytem using Face Recognition (AAMSFR)
 
 Instructions to Run the Software:
 
